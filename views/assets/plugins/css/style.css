@@ -1,0 +1,373 @@
+.layout-top-nav .wrapper .main-header .brand-image{
+    margin-right: 0;
+    border-radius: 10px !important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color:#0071c5 !important;
+}
+
+.dropdown-item{
+    color:#0071c5 !important;
+}
+
+.login-box{
+    margin-inline: auto !important;
+    margin-top: 10% !important;
+}
+
+.eyelogin:hover{
+    font-weight: 100!important;
+}
+
+.bg-eyelogin{
+    background-color: floralwhite!important;
+}
+
+/*
+.main-footer{
+    text-align: center !important;
+    position: absolute !important;
+    bottom: 0 !important;
+    width: 100% !important;
+    height: 40px !important;
+}*/
+
+.title-rasppage{
+    font-size:small !important;
+}
+
+
+.numIdTable{
+    width: 10px !important;
+}
+
+thead input {
+    width: 100% !important;
+}
+
+.dataTables_length{
+ display:inline; 
+ margin-left: 3%;  
+}
+
+.dataTables_filter{
+    display: inline;
+    float: right!important;
+}
+
+.btn-add-element{
+    width: 12%;
+}
+
+.dropdown-item.active{
+background-color: lavender;
+opacity: .65;
+}
+
+.btnTabla:hover, .btnEditarSysHWC:hover, .btnEditarUsuario:hover, .btnEliminarUsuario:hover, .btnEditarSistema:hover, .btnEliminarSistema:hover, .btnEditarcpu:hover, .btnEliminarcpu:hover {
+    transform: scale(1.2);
+    background-color: lavender;
+    opacity: .40;
+}
+
+.btnTabla{
+    padding: 0 1rem 0 0 !important;
+}
+
+
+.checkAllDimms {
+    margin-left: 1rem;
+}
+
+table#example.display tbody tr:nth-child(even):hover td{
+    background-color: lavender !important;
+    border-bottom-style: inset;
+    }
+    
+table#example.display tbody tr:nth-child(odd):hover td {
+    background-color: lavender !important;
+    border-bottom-style: inset;
+    }
+
+table#tabla_cpus.display tbody tr:nth-child(even):hover td{
+    background-color: lavender !important;
+    border-bottom-style: inset;
+    }
+        
+table#tabla_cpus.display tbody tr:nth-child(odd):hover td {
+    background-color: lavender !important;
+    border-bottom-style: inset;
+    }
+table#hwchange.display tbody tr:nth-child(even):hover td{
+    background-color: lavender !important;
+    border-bottom-style: inset;
+    }
+table#hwchange.display tbody tr:nth-child(odd):hover td {
+    background-color: lavender !important;
+    border-bottom-style: inset;
+    }
+table#tabla_dimms.display tbody tr:nth-child(even):hover td{
+        background-color: lavender !important;
+        border-bottom-style: inset;
+    }
+            
+table#tabla_dimms.display tbody tr:nth-child(odd):hover td {
+        background-color: lavender !important;
+        border-bottom-style: inset;
+    }
+
+table#hwchangetable.display tbody tr:nth-child(even):hover td{
+        background-color: lavender !important;
+        border-bottom-style: inset;
+    }
+            
+table#hwchangetable.display tbody tr:nth-child(odd):hover td {
+        background-color: lavender !important;
+        border-bottom-style: inset;
+    }
+
+    
+    
+
+table.dataTable>thead .sorting:before,table.dataTable>thead .sorting:after,table.dataTable>thead .sorting_asc:before,table.dataTable>thead .sorting_asc:after,table.dataTable>thead .sorting_desc:before,table.dataTable>thead .sorting_desc:after,table.dataTable>thead .sorting_asc_disabled:before,table.dataTable>thead .sorting_asc_disabled:after,table.dataTable>thead .sorting_desc_disabled:before,table.dataTable>thead .sorting_desc_disabled:after {
+        bottom: .5em!important;
+
+}
+
+thead{
+    background-color: aliceblue;
+}
+
+table.dataTable {
+    margin-top: 0px !important;
+}
+
+.imgNewUser{
+    margin-bottom: 0!important;
+    margin-top: 2%!important;
+}
+
+.form-group {
+    margin-bottom: 0!important;
+}
+
+.inputsNewSys {
+    width: 22%!important;
+    border-bottom: groove;
+    place-content: center;
+}
+
+.addinputsNewSys{
+    font-size: 0.8rem;
+    width: 22%!important;
+    border-bottom: groove;
+}
+
+.dataTables_scroll{
+    text-align: center!important;
+}
+
+table.dataTable>thead>tr>th:not(.sorting_disabled), table.dataTable>thead>tr>td:not(.sorting_disabled){
+    padding-right: 0.1rem!important;
+    padding-left: 0.1rem!important;
+}
+
+.filters{
+    text-align-last: center!important;
+}
+
+
+table.dataTable.nowrap th, table.dataTable.nowrap td {
+    border-bottom: inset!important;
+    border-right: inset!important;
+}
+
+div#hwchangetable_filter.dataTables_filter{
+    float: left!important;
+
+}
+div#hwchangetable_filter.dataTables_filter input{
+    border-radius: 10px;
+    border-bottom: inset;
+    width: 100%;
+    height: 2.5rem;
+    margin-bottom: 5%;
+}
+
+.btnEditarSysHWC{
+    cursor: pointer;
+color:#007bff;    
+}
+
+
+.btn-cabecera{    
+    font-size: small;
+    padding: 0.2rem!important;
+    width: 90%;
+}
+
+.hwChangeTable {
+    display: contents;
+    width: 100%;
+    border: inset;
+    text-align: center;
+    border-top: inset;
+}
+
+.hwChangeTable tr {
+        border: ridge;
+        border-color: honeydew;
+}
+
+.tableHWC {
+    border-bottom: none !important;
+    font-size: smaller;
+}
+
+.tableHWC th {
+    padding: 0 !important;
+    vertical-align: middle !important;
+}
+
+.tableHWC td {
+    padding: 0 !important;
+    vertical-align: middle !important;
+}
+
+.tableHWC thead {
+    text-align-last: center !important;
+    border-top: hidden !important;
+}
+
+table#hwChangeDIMMs.display tbody tr:nth-child(even):hover td{
+    background-color: lavender !important;
+    border-bottom-style: inset;
+    }
+    
+table#hwChangeDIMMs.display tbody tr:nth-child(odd):hover td {
+    background-color: lavender !important;
+    border-bottom-style: inset;
+    }
+
+.grid{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap:1rem;
+} 
+@media(max-width: 768px){
+.grid{grid-template-columns: 1fr;}
+}
+
+.grid2{
+    border-radius: 15px;
+    padding: 1%;
+    background-color: #f4f6f9;
+    width: 100%;
+}
+
+.titleitemschanged{
+    width: 100px;
+    background-color: lavender!important;
+}
+.inputitemschanged{
+    color: #007bff;
+    background-color: white!important;
+}
+.ingrItemChanged{
+    height: 30px!important;
+
+}
+
+.titspanItemchanged1{
+    height: 28px!important;
+    width: 60px!important;
+    background-color: lavender;
+    border-color: white;
+    color: black;
+    place-content: center;
+
+}
+
+.spanItemchanged{
+    height: 28px!important;
+    width: 60px!important;
+    background-color: white!important;
+    text-align: center;
+    font-size: small;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    box-shadow: inset 0 0 0 transparent;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.inforItemChanged{
+    background-color: white!important;
+    text-align: center;
+    height: 28px!important;
+    font-size: small;
+}
+
+.titspanItemchanged{
+    height: 28px!important;
+    width: 28px;
+    background-color: lavender;
+    border-color: white;
+    color: black;
+    place-content: center;
+}
+
+.btnItemchanged{
+    height: 28px!important;
+    width: 28px;
+}
+
+.titinforItemChanged{
+    background-color: lavender!important;
+    border-color: white;
+    color: black;
+    text-align: center;
+    height: 28px!important;
+}
+
+
+
+.grid3{
+    margin-top: 2%;
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+} 
+@media(max-width: 768px){
+.grid3{grid-template-rows: 1fr;}
+}
+
+.itemsEnter{
+    display: contents;
+    border-radius: 5px;
+    text-align: center;
+    background-color: white;
+    border-right: inset;
+    padding-right: .2rem;
+}
+.itemsLeave{
+    display: contents;
+    padding-left: .2rem;
+    border-radius: 5px;
+    text-align: center;
+    background-color: white;
+}
+.ocultarbotonesItem{
+    visibility: hidden;
+}
+
+.tacharTexto{
+    color: brown;
+    text-decoration: line-through;
+}
+
+
+
+
+
+
+
+

@@ -1,0 +1,792 @@
+1,PAIV,Frostcreek,Snowridge,1232,106,FC01
+2,PAIV,Frostcreek,Snowridge,1233,107,FC01
+3,PAIV,Frostcreek,Snowridge,1234,108,FC01
+4,Ramon Lopez Escudero,Frostcreek,Snowridge,1235,109,FC01
+5,PAIV,Frostcreek,Snowridge,1287,161,FC01
+6,RASP,Frostcreek,Snowridge,1236,110,FC02
+7,RASP,Frostcreek,Snowridge,1285,159,FC02
+8,PAIV,Frostcreek,Snowridge,1286,160,FC02
+9,PAIV,Frostcreek,Snowridge,1288,162,FC02
+10,RASP,Frostcreek,Snowridge,1427,310,FC02
+11,Ramon Lopez Escudero,Frostcreek,Snowridge,1271,145,FC03
+12,Ramon Lopez Escudero,Frostcreek,Snowridge,1272,146,FC03
+13,RASP,Frostcreek,Snowridge,1273,147,FC03
+14,Ramon Lopez Escudero,Frostcreek,Snowridge,1289,163,FC03
+15,RASP,Frostcreek,Snowridge,1290,164,FC03
+16,Ramon Lopez Escudero,Frostcreek,Snowridge,1321,204,FC04
+17,Ramon Lopez Escudero,Frostcreek,Snowridge,1323,206,FC04
+18,Ramon Lopez Escudero,Frostcreek,Snowridge,1324,207,FC04
+19,Ramon Lopez Escudero,Frostcreek,Snowridge,1325,208,FC04
+20,Ramon Lopez Escudero,Frostcreek,Snowridge,1277,151,FC05
+21,Ramon Lopez Escudero,Frostcreek,Snowridge,1281,155,FC05
+22,Ramon Lopez Escudero,Frostcreek,Snowridge,629592,156,FC05
+23,Ramon Lopez Escudero,Frostcreek,Snowridge,1283,157,FC05
+24,Ramon Lopez Escudero,Frostcreek,Snowridge,1291,165,FC05
+25,Ramon Lopez Escudero,Frostcreek,Snowridge,1278,152,FC06
+26,Ramon Lopez Escudero,Frostcreek,Snowridge,1279,153,FC06
+27,Ramon Lopez Escudero,Frostcreek,Snowridge,1280,154,FC06
+28,RASP,Frostcreek,Snowridge,1428,311,FC06
+29,RASP,Frostcreek,Snowridge,1429,312,FC06
+30,RASP,Frostcreek,Snowridge,1292,166,FC07
+31,RASP,Frostcreek,Snowridge,1293,167,FC07
+32,RASP,Frostcreek,Snowridge,1294,168,FC07
+33,RASP,Frostcreek,Snowridge,1295,169,FC07
+34,RASP,Frostcreek,Snowridge,1296,170,FC07
+35,RASP,Frostcreek,Snowridge,1297,171,FC08
+36,RASP,Frostcreek,Snowridge,1298,172,FC08
+37,RASP,Frostcreek,Snowridge,1299,173,FC08
+38,RASP,Frostcreek,Snowridge,1300,174,FC08
+39,PAIV,Frostcreek,Snowridge,1301,175,FC08
+40,PAIV,Frostcreek,Snowridge,1314,197,FC09
+41,PAIV,Frostcreek,Snowridge,1315,198,FC09
+42,RASP,Frostcreek,Snowridge,1319,202,FC10
+43,RASP,Frostcreek,Snowridge,1320,203,FC10
+44,RASP,,,1632,515,26.1
+45,Decomission,,,,,
+46,Sep-Oct,,,,,
+47,RASP,,,1633,516,26.2
+48,Decomission,,,,,
+49,Sep-Oct,,,,,
+50,RASP,,,1634,517,26.3
+51,Decomission,,,,,
+52,Sep-Oct,,,,,
+53,RASP,,,1635,518,26.4
+54,Decomission,,,,,
+55,Sep-Oct,,,,,
+56,RASP,,,1636,519,26.5
+57,Decomission,,,,,
+58,Sep-Oct,,,,,
+59,RASP,,,1637,520,27.1
+60,Decomission,,,,,
+61,Sep-Oct,,,,,
+62,RASP,,,1638,521,27.2
+63,Decomission,,,,,
+64,Sep-Oct,,,,,
+65,RASP,,,1639,522,27.3
+66,Decomission,,,,,
+67,Sep-Oct,,,,,
+68,RASP,,,1640,523,27.4
+69,Decomission,,,,,
+70,Sep-Oct,,,,,
+71,RASP,,,1641,524,27.5
+72,Decomission,,,,,
+73,Sep-Oct,,,,,
+74,RASP,,,1652,535,29.1
+75,Decomission,,,,,
+76,Sep-Oct,,,,,
+77,RASP,,,1653,536,29.2
+78,Decomission,,,,,
+79,Sep-Oct,,,,,
+80,RASP,,,1654,537,29.3
+81,Decomission,,,,,
+82,Sep-Oct,,,,,
+83,RASP,,,1655,538,29.4
+84,Decomission,,,,,
+85,Sep-Oct,,,,,
+86,RASP,,,1656,539,29.5
+87,Decomission,,,,,
+88,Sep-Oct,,,,,
+89,RASP,,,1657,540,30.1
+90,Decomission,,,,,
+91,Sep-Oct,,,,,
+92,RASP,,,1658,541,30.2
+93,Decomission,,,,,
+94,Sep-Oct,,,,,
+95,RASP,,,1659,542,30.3
+96,Decomission,,,,,
+97,Sep-Oct,,,,,
+98,RASP,,,1660,543,30.4
+99,RASP,,,1661,544,30.5
+100,Decomission,,,,,
+101,Sep-Oct,,,,,
+102,RASP,,,1667,550,31.1
+103,Decomission,,,,,
+104,Sep-Oct,,,,,
+105,RASP,,,1668,551,31.2
+106,Decomission,,,,,
+107,Sep-Oct,,,,,
+108,RASP,,,1669,552,31.3
+109,Decomission,,,,,
+110,Sep-Oct,,,,,
+111,RASP,,,1670,553,31.4
+112,Decomission,,,,,
+113,Sep-Oct,,,,,
+114,RASP,,,1671,554,31.5
+115,Decomission,,,,,
+116,Sep-Oct,,,,,
+117,RASP,,,1672,555,32.1
+118,Decomission,,,,,
+119,Sep-Oct,,,,,
+120,RASP,,,1673,556,32.2
+121,Decomission,,,,,
+122,Sep-Oct,,,,,
+123,RASP,,,1674,557,32.3
+124,Decomission,,,,,
+125,Sep-Oct,,,,,
+126,RASP,,,1695,578,32.4
+127,Decomission,,,,,
+128,Sep-Oct,,,,,
+129,RASP,,,1696,579,32.5
+130,Decomission,,,,,
+131,Sep-Oct,,,,,
+132,RASP,,,1697,580,33.1
+133,Decomission,,,,,
+134,Sep-Oct,,,,,
+135,RASP,,,1698,581,33.2
+136,Decomission,,,,,
+137,Sep-Oct,,,,,
+138,RASP,,,1699,582,33.3
+139,Decomission,,,,,
+140,Sep-Oct,,,,,
+141,RASP,,,1700,583,33.4
+142,Decomission,,,,,
+143,Sep-Oct,,,,,
+144,RASP,,,1701,584,33.5
+145,Decomission,,,,,
+146,Sep-Oct,,,,,
+147,Decomission,,,1263,137,1.1
+148,RASP,,,1266,140,1.2
+149,RASP,,,1267,141,1.3
+150,Decomission,,,1249,123,1.4
+151,RASP,,,1250,124,1.5
+152,RASP,,,1251,125,2.1
+153,RASP,,,1252,126,2.2
+154,Decomission,,,1253,127,2.3
+155,RASP,,,1254,128,2.4
+156,RASP,,,1255,129,2.5
+157,RASP,,,1270,144,3.1
+158,Decomission,,,1257,131,3.2
+159,RASP,,,1258,132,3.3
+160,Decomission,,,1259,133,3.4
+161,RASP,,,1260,134,3.5
+162,Decomission,,,1261,135,4.1
+163,Decomission,,,1262,136,4.2
+164,Decomission,,,1269,143,4.3
+165,Decomission,,,1264,138,4.4
+166,Decomission,,,1265,139,4.5
+167,RASP,,,1246,120,5.1
+168,Decomission,,,1247,121,5.2
+169,Decomission,,,1248,122,5.3
+170,RASP,,,1256,130,5.4
+171,Decomission,,,1268,142,5.5
+172,Decomission,,,1718,601,28.1
+173,Decomission,,,1719,602,28.2
+174,Decomission,,,1720,603,28.3
+175,Decomission,,,1721,604,28.4
+176,Decomission,,,1722,605,28.5
+177,Decomission,,,1707,590,34.1
+178,Decomission,,,1708,591,34.2
+179,Decomission,,,1709,592,34.3
+180,Decomission,,,1710,593,34.4
+181,Decomission,,,1711,594,34.5
+182,Decomission,,,1712,595,35.1
+183,Decomission,,,1713,596,35.2
+184,RASP,,,1714,597,35.3
+185,Decomission,,,1715,598,35.4
+186,RASP,,,1716,599,35.5
+187,RASP,,,1417,300,11.1
+188,RASP,,,1418,301,11.2
+189,RASP,,,1419,302,11.3
+190,RASP,,,1420,303,11.4
+191,RASP,,,1421,304,11.5
+192,RASP,,,1422,305,12.1
+193,Decomission,,,1423,306,12.2
+194,RASP,,,1424,307,12.3
+195,RASP,,,1425,308,12.4
+196,RASP,,,1426,309,12.5
+197,RASP,,,1456,339,13.1
+198,Decomission,,,1457,340,13.2
+199,RASP,,,1458,341,13.3
+200,RASP,,,1459,342,13.4
+201,RASP,,,1460,343,13.5
+202,Decomission,,,1465,348,14.1
+203,Decomission,,,1466,349,14.2
+204,RASP,,,1467,350,14.3
+205,RASP,,,1468,351,14.4
+206,Decomission,,,1469,352,14.5
+207,RASP,,,1471,354,15.1
+208,RASP,,,1472,355,15.2
+209,RASP,,,1473,356,15.3
+210,RASP,,,1474,357,15.4
+211,RASP,,,1475,358,15.5
+212,RASP,,,1476,359,16.1
+213,RASP,,,1477,360,16.2
+214,RASP,,,1478,361,16.3
+215,RASP,,,1479,362,16.4
+216,RASP,,,1480,363,16.5
+217,RASP,,,1489,372,17.1
+218,RASP,,,1490,373,17.2
+219,RASP,,,1491,374,17.3
+220,RASP,,,1492,375,17.4
+221,RASP,,,1493,376,17.5
+222,RASP,,,1494,377,18.1
+223,RASP,,,1495,378,18.2
+224,RASP,,,1496,379,18.6
+225,RASP,,,1497,380,18.4
+226,RASP,,,1498,381,18.5
+227,RASP,,,1511,394,19.1
+228,RASP,,,1512,395,19.2
+229,RASP,,,1513,396,19.3
+230,RASP,,,1514,397,19.4
+231,RASP,,,1515,398,19.5
+232,RASP,,,1516,399,20.1
+233,RASP,,,1517,400,20.2
+234,RASP,,,1518,401,20.3
+235,RASP,,,1519,402,20.4
+236,RASP,,,1520,403,20.5
+237,RASP,,,1565,448,21.1
+238,RASP,,,1566,449,21.2
+239,RASP,,,1567,450,21.3
+240,RASP,,,1568,451,21.4
+241,RASP,,,1569,452,21.5
+242,RASP,,,1570,453,22.1
+243,,,,1571,454,22.2
+244,,,,1572,455,22.3
+245,RASP,,,1573,456,22.4
+246,,,,1574,457,22.5
+247,,,,1577,460,23.1
+248,RASP,,,1578,461,23.2
+249,RASP,,,1579,462,23.3
+250,RASP,,,1580,463,23.4
+251,RASP,,,1581,464,23.5
+252,RASP,,,1582,465,24.1
+253,RASP,,,1583,466,24.2
+254,RASP,,,1584,467,24.3
+255,RASP,,,1585,468,24.4
+256,RASP,,,1586,469,24.5
+257,RASP,,,1587,470,25.1
+258,RASP,,,1588,471,25.2
+259,RASP,,,1589,472,25.3
+260,RASP,,,1590,473,25.4
+261,RASP,,,1591,474,25.5
+262,Decomission,,,1703,586,36
+263,Decomission,,,1704,587,36
+264,Decomission,,,1705,588,36
+265,Decomission,,,1706,589,36
+266,RASP,,,1687,570,37
+267,RASP,,,1688,571,37
+268,RASP,,,1689,572,37
+269,RASP,,,1690,573,37
+270,RASP,,,1662,545,38
+271,RASP,,,1663,546,38
+272,RASP,,,1664,547,38
+273,RASP,,,1665,548,38
+274,RASP,,,1648,531,39
+275,RASP,,,1649,532,39
+276,RASP,,,1650,533,39
+277,RASP,,,1651,534,39
+278,RASP,,Cooper City,1642,525,40
+279,RASP,,Cooper City,1643,526,40
+280,RASP,,Cooper City,1644,527,40
+281,RASP,,Cooper City,1645,528,40
+282,RASP,,Cooper City,1622,505,41
+283,RASP,,Cooper City,1623,506,41
+284,RASP,,Cooper City,1624,507,41
+285,RASP,,Cooper City,1625,508,41
+286,Decomission,,Cooper City,1575,458,42
+287,Decomission,,Cooper City,1576,459,42
+288,RASP,,Cooper City,1617,500,42
+289,RASP,,Cooper City,1618,501,42
+290,RASP,,Cooper City,,529,43
+291,RASP,,Cooper City,,530,43
+292,RASP,,Cooper City,1675,558,43
+293,RASP,,Cooper City,1676,559,43
+294,RASP Decomission to,,Cooper City,1691,574,44
+295,Jesus ambriz,,,,,
+296,RASP Decomission to,,Cooper City,1692,575,44
+297,Jesus ambriz,,,,,
+298,RASP,,Cooper City,1693,576,44
+299,RASP,,Cooper City,1694,577,44
+300,RASP,Archer City,SapphireRapids,97848,,27.6
+301,RASP,Archer City,SapphireRapids,4222,,22.6
+302,RASP,Archer City,SapphireRapids,4223,,22.7
+303,RASP,Archer City,SapphireRapids,4217,,22.1
+304,IPU,Archer City,SapphireRapids,4220,,22.4
+305,RASP,Archer City,SapphireRapids,4219,,22.3
+306,RASP,Archer City,SapphireRapids,4218,,22.2
+307,RASP,Archer City,SapphireRapids,4224,,23.1
+308,IPU,Archer City,SapphireRapids,4225,,23.2
+309,RASP,Archer City,SapphireRapids,4226,,23.3
+310,RASP,Archer City,SapphireRapids,4227,,23.4
+311,RASP,Archer City,SapphireRapids,4228,,23.5
+312,RASP,Archer City,SapphireRapids,4229,,23.6
+313,RASP,Archer City,SapphireRapids,4230,,23.7
+314,IPU,Archer City,SapphireRapids,4231,,12.1
+315,RASP,Archer City,SapphireRapids,4232,,12.2
+316,RASP,Archer City,SapphireRapids,4233,,12.3
+317,IPU,Archer City,SapphireRapids,4234,,12.4
+318,RASP,Archer City,SapphireRapids,4235,,12.5
+319,RASP,Archer City,SapphireRapids,4236,,12.6
+320,IPU,Archer City,SapphireRapids,4237,,12.7
+321,IPU,Archer City,SapphireRapids,4238,,11.1
+322,IPU,Archer City,SapphireRapids,4239,,11.2
+323,RASP,Archer City,SapphireRapids,4240,,11.3
+324,IPU,Archer City,SapphireRapids,4241,,11.4
+325,RASP,Archer City,SapphireRapids,4242,,11.5
+326,IPU,Archer City,SapphireRapids,4243,,11.6
+327,IPU,Archer City,SapphireRapids,4244,,11.7
+328,IPU,Archer City,SapphireRapids,4245,,10.1
+329,RASP,Archer City,SapphireRapids,4246,,10.2
+330,RASP,Archer City,SapphireRapids,4247,,10.3
+331,RASP,Archer City,SapphireRapids,4248,,10.4
+332,RASP,Archer City,SapphireRapids,4249,,10.5
+333,IPU,Archer City,SapphireRapids,4250,,10.6
+334,RASP,Archer City,SapphireRapids,4251,,10.7
+335,RASP,Archer City,SapphireRapids,4252,,9.1
+336,RASP,Archer City,SapphireRapids,4253,,9.2
+337,RASP,Archer City,SapphireRapids,4254,,9.3
+338,IPU,Archer City,SapphireRapids,4255,,9.4
+339,RASP,Archer City,SapphireRapids,4256,,9.5
+340,RASP,Archer City,SapphireRapids,4257,,9.6
+341,RASP,Archer City,SapphireRapids,4258,,9.7
+342,RASP,Archer City,SapphireRapids,4259,,4.1
+343,IPU,Archer City,SapphireRapids,4260,,4.2
+344,RASP,Archer City,SapphireRapids,4261,,4.3
+345,IPU,Archer City,SapphireRapids,4262,,4.4
+346,RASP,Archer City,SapphireRapids,4263,,4.5
+347,RASP,Archer City,SapphireRapids,4264,,4.6
+348,IPU,Archer City,SapphireRapids,4265,,4.7
+349,IPU,Archer City,SapphireRapids,4266,,3.1
+350,IPU,Archer City,SapphireRapids,4267,,3.2
+351,IPU,Archer City,SapphireRapids,4268,,3.3
+352,RASP,Archer City,SapphireRapids,4269,,3.4
+353,IPU,Archer City,SapphireRapids,4270,,3.5
+354,RASP,Archer City,SapphireRapids,4271,,3.6
+355,IPU,Archer City,SapphireRapids,4272,,3.7
+356,RASP,Archer City,SapphireRapids,5635,,16.2
+357,RASP,Archer City,SapphireRapids,5636,,16.2
+358,RASP,Archer City,SapphireRapids,5637,,16.3
+359,RASP,Archer City,SapphireRapids,5638,,16.4
+360,RASP,Archer City,SapphireRapids,5639,,16.5
+361,RASP,Archer City,SapphireRapids,5640,,16.6
+362,RASP,Archer City,SapphireRapids,5641,,16.7
+363,Golden System,,,,,
+364,RASP,Archer City,SapphireRapids,5642,,15.1
+365,IPU,Archer City,SapphireRapids,5643,,15.2
+366,IPU,Archer City,SapphireRapids,5644,,15.3
+367,RASP,Archer City,SapphireRapids,5645,,15.4
+368,RASP,Archer City,SapphireRapids,5646,GDC615319,15.5
+369,RASP,Archer City,SapphireRapids,5647,GDC615187,15.6
+370,RASP,Archer City,SapphireRapids,5648,,15.7
+371,RASP,Archer City,SapphireRapids,4770,,24.1
+372,RASP,Archer City,SapphireRapids,4771,,24.2
+373,RASP,Archer City,SapphireRapids,4772,,24.3
+374,RASP,Archer City,SapphireRapids,4773,,24.4
+375,IPU,Archer City,SapphireRapids,4774,,24.5
+376,RASP,Archer City,SapphireRapids,4775,,24.6
+377,RASP,Archer City,SapphireRapids,4776,GDC615180,24.7
+378,IPU,Archer City,SapphireRapids,5331,,25.1
+379,IPU,Archer City,SapphireRapids,5332,,25.2
+380,RASP,Archer City,SapphireRapids,5333,,25.3
+381,IPU,Archer City,SapphireRapids,5334,,25.4
+382,RASP,Archer City,SapphireRapids,5335,,25.5
+383,RASP,Archer City,SapphireRapids,5336,,25.6
+384,IPU,Archer City,SapphireRapids,5330,,25.7
+385,RASP,Archer City,SapphireRapids,4777,,18.1
+386,RASP,Archer City,SapphireRapids,4778,,18.2
+387,IPU,Archer City,SapphireRapids,4779,,18.3
+388,RASP,Archer City,SapphireRapids,4780,,18.4
+389,RASP,Archer City,SapphireRapids,4781,,18.5
+390,RASP,Archer City,SapphireRapids,4782,N/A,18.6
+391,IPU,Archer City,SapphireRapids,4783,,18.7
+392,IPU,Archer City,SapphireRapids,4214,,35.6
+393,RASP,Archer City,SapphireRapids,4784,,19.1
+394,RASP,Archer City,SapphireRapids,4785,,19.2
+395,RASP,Archer City,SapphireRapids,4786,,19.3
+396,RASP,Archer City,SapphireRapids,4787,,35.4
+397,RASP,Archer City,SapphireRapids,4788,,19.5
+398,RASP,Archer City,SapphireRapids,4790,,19.7
+399,RASP,Archer City,SapphireRapids,4791,,20.1
+400,RASP,Archer City,SapphireRapids,4792,,20.2
+401,RASP,Archer City,SapphireRapids,4793,,20.3
+402,RASP,Archer City,SapphireRapids,4794,,20.4
+403,IPU,Archer City,SapphireRapids,4795,,20.5
+404,RASP,Archer City,SapphireRapids,4796,,20.6
+405,IPU,Archer City,SapphireRapids,4797,,20.7
+406,RASP,Archer City,SapphireRapids,4803,,21.6
+407,RASP,Archer City,SapphireRapids,4798,GDC615369,21.1
+408,IPU,Archer City,SapphireRapids,4799,,21.2
+409,RASP,Archer City,SapphireRapids,4800,,21.3
+410,RASP,Archer City,SapphireRapids,4801,,21.4
+411,RASP,Archer City,SapphireRapids,4802,,21.5
+412,IPU,Archer City,SapphireRapids,4804,,21.7
+413,RASP,Archer City,SapphireRapids,3457,,47.1
+414,IPU,Archer City,SapphireRapids,3458,,47.2
+415,RASP,Archer City,SapphireRapids,3459,,47.3
+416,IPU,Archer City,SapphireRapids,3460,,47.4
+417,RASP,Archer City,SapphireRapids,3461,,47.5
+418,RASP,Archer City,SapphireRapids,3462,,48.1
+419,RASP,Archer City,SapphireRapids,3463,,48.2
+420,RASP,Archer City,SapphireRapids,3464,,48.3
+421,RASP,Archer City,SapphireRapids,3465,,48.4
+422,RASP,Archer City,SapphireRapids,3466,,48.5
+423,IPU,Archer City,SapphireRapids,3467,,49.1
+424,RASP,Archer City,SapphireRapids,3468,,49.2
+425,RASP,Archer City,SapphireRapids,3470,,49.4
+426,RASP,Archer City,SapphireRapids,3471,,49.5
+427,IPU,Archer City,SapphireRapids,3433,,50.1
+428,RASP,,,1738,,50.3
+429,RASP,Archer City,SapphireRapids,3435,,50.5
+430,RASP,Archer City,SapphireRapids,3472,,51.1
+431,RASP,Archer City,SapphireRapids,3473,,51.2
+432,RASP,Archer City,SapphireRapids,3474,,51.3
+433,RASP,Archer City,SapphireRapids,3475,,51.4
+434,RASP,Archer City,SapphireRapids,4167,,1.7
+435,RASP,Archer City,SapphireRapids,4166,,1.6
+436,IPU,,SapphireRapids,4144,,1.5
+437,RASP,Archer City,SapphireRapids,4165,,1.4
+438,IPU,Archer City,SapphireRapids,4164,,1.3
+439,RASP,Archer City,SapphireRapids,4163,,1.2
+440,RASP,Archer City,SapphireRapids,4162,,1.1
+441,IPU,Archer City,SapphireRapids,4174,,2.7
+442,RASP,Archer City,SapphireRapids,4173,,2.6
+443,VCE team,Archer City,SapphireRapids,4172,,2.5
+444,"Zavjalov, Alexei ",,,,,
+445,RASP,Archer City,SapphireRapids,4171,,2.4
+446,IPU,Archer City,SapphireRapids,4170,,2.3
+447,IPU,Archer City,SapphireRapids,4169,,2.2
+448,RASP,Archer City,SapphireRapids,4168,,2.1
+449,IPU,Archer City,SapphireRapids,4175,,8.1
+450,IPU,Archer City,SapphireRapids,4176,,8.2
+451,RASP,Archer City,SapphireRapids,4177,,8.3
+452,RASP,Archer City,SapphireRapids,4178,,8.4
+453,RASP,Archer City,SapphireRapids,4179,,8.5
+454,RASP,Archer City,SapphireRapids,4180,,8.6
+455,IPU,Archer City,SapphireRapids,4181,,8.7
+456,IPU,Archer City,SapphireRapids,4182,,7.1
+457,IPU,Archer City,SapphireRapids,4183,,7.2
+458,IPU,Archer City,SapphireRapids,4184,,7.3
+459,IPU,Archer City,SapphireRapids,4185,,7.4
+460,RASP,Archer City,SapphireRapids,4186,,7.5
+461,IPU,Archer City,SapphireRapids,4187,,7.6
+462,RASP,Archer City,SapphireRapids,4188,,7.7
+463,RASP,Archer City,SapphireRapids,3986,Sistema prestado a CXL:,Bench 1.01
+464,,,,,"ITP, NUC, HUB y SERIAL",
+465,,,,,"JULIO 7,2021",
+466,IPU,Archer City,SapphireRapids,3987,,Bench 2.01
+467,IPU,Archer City,SapphireRapids,3988,,Bench 3.01
+468,RASP,Archer City,SapphireRapids,Dense 1,,Bench 3.02
+469,RASP,Archer City,SapphireRapids,3989,,Bench 7.01
+470,RASP,Archer City,SapphireRapids,3990,,Bench 8.01
+471,RASP,Archer City,SapphireRapids,3991,,Bench 9.01
+472,RASP,Archer City,SapphireRapids,3992,,Bench 10.01
+473,RASP,Archer City,SapphireRapids,7908,,Bench 10.02
+474,RASP,Archer City,SapphireRapids,7909,,10
+475,RASP,Archer City,SapphireRapids,3476,,
+476,RASP,,,,,
+477,RASP,,,,,
+478,RASP,Archer City,SapphireRapids,3434,,50.4
+479,RASP,Archer City,SapphireRapids,4221,,22.5
+480,RASP,Archer City,SapphireRapids,4210,,20.1
+481,RASP,Archer City,SapphireRapids,4789,,19.6
+482,IPU,Archer City,SapphireRapids,3469,POK,49.3
+483,RASP,,,,,
+484,RASP,,,,,
+485,RASP,,,,,
+486,RASP,Archer City,SapphireRapids,3050,,50.2
+487,RASP,Archer City,SapphireRapids,4203,,14.1
+488,RASP,Archer City,SapphireRapids,4204,,14.2
+489,RASP,Archer City,SapphireRapids,4205,,14.3
+490,IPU,Archer City,SapphireRapids,4206,,14.4
+491,RASP,Archer City,SapphireRapids,4207,,14.5
+492,IPU,Archer City,SapphireRapids,4208,,14.6
+493,RASP,Archer City,SapphireRapids,4209,,14.7
+494,RASP,Archer City,SapphireRapids,4213,,13.4
+495,IPU,Archer City,SapphireRapids,4211,,13.2
+496,RASP,,,,,20.5
+497,RASP,Archer City,SapphireRapids,4216,,13.7
+498,RASP,Archer City,SapphireRapids,4215,,13.6
+499,IPU,Archer City,SapphireRapids,4189,,6.1
+500,VCE team,Archer City,SapphireRapids,4190,,6.2
+501,"Zavjalov, Alexei ",,,,,
+502,RASP,Archer City,SapphireRapids,4191,,6.3
+503,RASP,Archer City,SapphireRapids,4192,,6.4
+504,RASP,Archer City,SapphireRapids,4193,,6.5
+505,RASP,Archer City,SapphireRapids,4194,,6.6
+506,IPU,Archer City,SapphireRapids,4195,,6.7
+507,RASP,Archer City,SapphireRapids,4196,,5.1
+508,RASP,Archer City,SapphireRapids,4197,,5.2
+509,RASP,Archer City,SapphireRapids,4198,,5.3
+510,IPU,Archer City,SapphireRapids,4199,,5.4
+511,RASP,Archer City,SapphireRapids,4200,,5.5
+512,RASP,Archer City,SapphireRapids,4201,,5.6
+513,IPU,Archer City,SapphireRapids,4202,,5.7
+514,IPU,Archer City,SapphireRapids,7216,,3.2.1
+515,IPU,Archer City,SapphireRapids,7217,,3.2.1
+516,RASP,,,1646,,
+517,RASP,,,1647,,
+518,RASP,Archer City,SapphireRapids,9442,,2.2.1
+519,RASP,Archer City,SapphireRapids,9443,,
+520,IPU,Archer City,SapphireRapids,97839,26.3,26.3
+521,IPU,Archer City,SapphireRapids,97840,,26.4
+522,IPU,Archer City,SapphireRapids,97837,,26.1
+523,RASP,Archer City,SapphireRapids,99110,,04.2.1
+524,RASP,Archer City,SapphireRapids,99111,,04.2.2
+525,RASP,Archer City,SapphireRapids,99112,,05.2.1
+526,RASP,Archer City,SapphireRapids,99113,,05.2.2
+527,RASP,Archer City,SapphireRapids,99115,,06.2.2
+528,RASP,Archer City,SapphireRapids,99114,,06.2.1
+529,RASP,,,,,BenCh 10.1
+530,RASP,Archer City,SapphireRapids,97843,,27.2
+531,RASP,,,Server Dell(IMMEX),GDC618031,G1PLQ53
+532,RASP,,Cooper City,,,40
+533,RASP,,,,,R30S06
+534,RASP,Archer City,SapphireRapids,7938,r40s01,40
+535,RASP,Archer City,SapphireRapids,7939,r40s02,40
+536,RASP,Archer City,SapphireRapids,r40s03,r40s03,40
+537,RASP,Archer City,SapphireRapids,7941,r40s04,40
+538,RASP,Archer City,SapphireRapids,r40s05,r40s05,40
+539,RASP,Archer City,SapphireRapids,r40s06,r40s06,40
+540,RASP,Archer City,SapphireRapids,r40s07,r40s07,40
+541,RASP,Archer City,SapphireRapids,r245s001,,245
+542,RASP,Archer City,SapphireRapids,r245s002,,245
+543,RASP,Archer City,SapphireRapids,r245s003,,245
+544,RASP,Archer City,SapphireRapids,r245s004,,245
+545,RASP,Archer City,SapphireRapids,r245s005,,245
+546,RASP,Archer City,SapphireRapids,r245s006,,245
+547,RASP,Archer City,SapphireRapids,r245s007,,245
+548,RASP,Archer City,SapphireRapids,r229s001,,229
+549,RASP,Archer City,SapphireRapids,r229s002,,229
+550,RASP,Archer City,SapphireRapids,r229s003,,229
+551,RASP,Archer City,SapphireRapids,r229s007,,229
+552,RASP,Archer City,SapphireRapids,r229s004,,229
+553,RASP,Archer City,SapphireRapids,r229s006,,229
+554,RASP,Archer City,SapphireRapids,r229s005,,229
+555,RASP,Archer City,SapphireRapids,9900,,8S RACK 10.1
+556,RASP,Archer City,SapphireRapids,9901,,8S RACK 10.2
+557,RASP,Archer City,SapphireRapids,9902,,8S RACK 10.3
+558,RASP,Archer City,SapphireRapids,9903,,8S RACK 10.4
+559,RASP,,,,,12.1
+560,RASP,,,,,12.2
+561,RASP,,,,,12.3
+562,RASP,,,,,12.4
+563,RASP,,,,,2do modular Capi
+564,RASP,Archer City,SapphireRapids,10072,20006,8S RACK 12.1
+565,RASP,Archer City,SapphireRapids,10073,20006,8S RACK 12.2
+566,RASP,Archer City,SapphireRapids,10074,20006,8S RACK 12.3
+567,RASP,Archer City,SapphireRapids,10075,20006,8S RACK 12.4
+568,IPU,Archer City,SapphireRapids,10068,20005,8S RACK 13.1
+569,IPU,Archer City,SapphireRapids,10069,20005,8S RACK 13.2
+570,IPU,Archer City,SapphireRapids,10070,20005,8S RACK 13.3
+571,IPU,Archer City,SapphireRapids,10071,20005,8S RACK 13.4
+572,RASP,Archer City,SapphireRapids,113818,,31.7
+573,RASP,Archer City,SapphireRapids,113809,,30.5
+574,RASP,Archer City,SapphireRapids,113810,,30.6
+575,IPU,Archer City,SapphireRapids,113805,,30.1
+576,RASP,Archer City,SapphireRapids,113808,,30.4
+577,IPU,Archer City,SapphireRapids,113807,,30.3
+578,RASP,Archer City,SapphireRapids,113806,,30.2
+579,RASP,Archer City,SapphireRapids,113813,,31.2
+580,RASP,Archer City,SapphireRapids,113811,,30.7
+581,RASP,Archer City,SapphireRapids,113817,,31.6
+582,RASP,Archer City,SapphireRapids,113812,,31.1
+583,RASP,Archer City,SapphireRapids,113816,,31.5
+584,RASP,Archer City,SapphireRapids,113814,,31.3
+585,RASP,Archer City,SapphireRapids,113815,,31.4
+586,RASP,,,,,
+587,RASP,Archer City,SapphireRapids,97623,,26.5
+588,RASP,,,,,
+589,RASP,,,,,
+590,RASP,Archer City,SapphireRapids,97838,,26.2
+591,RASP,Archer City,SapphireRapids,97841,,26.6
+592,RASP,Archer City,SapphireRapids,39812,,
+593,RASP,Archer City,SapphireRapids,97850,,28.1
+594,RASP,Archer City,SapphireRapids,97851,,28.2
+595,IPU,Archer City,SapphireRapids,97852,,28.3
+596,IPU,Archer City,SapphireRapids,101807,,28.4
+597,RASP,Archer City,SapphireRapids,95659,,
+598,RASP,Archer City,SapphireRapids,97842,,
+599,IPU,Archer City,SapphireRapids,101808,,28.5
+600,IPU,Archer City,SapphireRapids,101809,,28.6
+601,IPU,Archer City,SapphireRapids,101810,,28.7
+602,RASP,Archer City,SapphireRapids,99124,20012,
+603,RASP,Archer City,SapphireRapids,99125,20012,
+604,RASP,Archer City,SapphireRapids,99126,20012,
+605,RASP,Archer City,SapphireRapids,99127,20012,
+606,RASP,Archer City,SapphireRapids,99120.1,,
+607,RASP,Archer City,SapphireRapids,99120.2,,
+608,RASP,Archer City,SapphireRapids,99120.3,,
+609,RASP,Archer City,SapphireRapids,99120.4,,
+610,RASP,Archer City,SapphireRapids,20010.1,,
+611,RASP,Archer City,SapphireRapids,20010.2,,
+612,RASP,Archer City,SapphireRapids,20010.3,,
+613,RASP,Archer City,SapphireRapids,20010.4,,
+614,RASP,Archer City,SapphireRapids,97846,,27.4
+615,RASP,Archer City,SapphireRapids,97847,,27.5
+616,RASP,Archer City,SapphireRapids,99116,,
+617,RASP,Archer City,SapphireRapids,99117,,
+618,RASP,Archer City,SapphireRapids,99118,,
+619,RASP,Archer City,SapphireRapids,99119,,
+620,RASP,Archer City,SapphireRapids,97844,,27.2
+621,RASP,Archer City,SapphireRapids,97849,,27.7
+622,RASP,Archer City,SapphireRapids,97845,,27.3
+623,RASP,Archer City,SapphireRapids,VRTB.1,,
+624,RASP,Archer City,SapphireRapids,118379,,
+625,VRTB,Archer City,SapphireRapids,124573,,35.1
+626,RASP,,,,,34.1
+627,RASP,,,,,34.2
+628,RASP,,,,,34.3
+629,RASP,,,,,34.4
+630,RASP,,,,,34.5
+631,RASP,,,,,34.6
+632,RASP,,,,,17.1
+633,RASP,,,,,17.2
+634,RASP,,,,,17.3
+635,RASP,,,,,17.4
+636,RASP,Archer City,SapphireRapids,AVC_2,,35.3
+637,RASP,Archer City,SapphireRapids,7940,,r40s03 
+638,Catlow,Archer City,SapphireRapids,Catlow_1,,Lab10-bench
+639,Loganville,Travertine Falls,Grandridge,491106,N/A,1.1
+640,Loganville,Travertine Falls,Grandridge,493589,N/A,1.2
+641,Loganville,Travertine Falls,Grandridge,493592,N/A,1.3
+642,Loganville,Travertine Falls,Grandridge,493593,N/A,1.4
+643,Loganville,Travertine Falls,Grandridge,493594,N/A,1.5
+644,Loganville,Travertine Falls,Grandridge,493595,N/A,1.6
+645,Loganville,Travertine Falls,Grandridge,493596,N/A,1.7
+646,Loganville,Travertine Falls,Grandridge,493597,N/A,2.1
+647,Loganville,Travertine Falls,Grandridge,493598,N/A,2.2
+648,Loganville,Travertine Falls,Grandridge,493599,N/A,2.3
+649,Loganville,Travertine Falls,Grandridge,493600,N/A,2.4
+650,Loganville,Travertine Falls,Grandridge,493601,N/A,2.5
+651,Loganville,Travertine Falls,Grandridge,493602,N/A,2.6
+652,Loganville,Travertine Falls,Grandridge,493603,N/A,2.7
+653,Loganville,Travertine Falls,Grandridge,493604,N/A,3.1
+654,Loganville,Travertine Falls,Grandridge,493605,N/A,3.2
+655,Loganville,Travertine Falls,Grandridge,493607,N/A,3.3
+656,Loganville,Travertine Falls,Grandridge,493608,N/A,3.4
+657,Loganville,Travertine Falls,Grandridge,493609,N/A,3.5
+658,Loganville,Travertine Falls,Grandridge,493610,N/A,3.6
+659,Loganville,Travertine Falls,Grandridge,493611,N/A,3.7
+660,Loganville,Travertine Falls,Grandridge,493612,N/A,4.1
+661,Loganville,Travertine Falls,Grandridge,493613,N/A,4.2
+662,Loganville,Travertine Falls,Grandridge,493614,N/A,4.3
+663,Loganville,Travertine Falls,Grandridge,493615,N/A,4.4
+664,Loganville,Travertine Falls,Grandridge,493616,N/A,4.5
+665,Loganville,Travertine Falls,Grandridge,493617,N/A,4.6
+666,Loganville,Travertine Falls,Grandridge,493618,N/A,4.7
+667,Loganville,Travertine Falls,Grandridge,493619,N/A,5.1
+668,Loganville,Travertine Falls,Grandridge,493620,N/A,5.2
+669,Loganville,Travertine Falls,Grandridge,493621,N/A,5.3
+670,Loganville,Travertine Falls,Grandridge,493622,N/A,5.4
+671,Loganville,Travertine Falls,Grandridge,493623,N/A,5.5
+672,Loganville,Travertine Falls,Grandridge,493624,N/A,5.6
+673,Loganville,Travertine Falls,Grandridge,493625,N/A,5.7
+674,Loganville,Travertine Falls,Grandridge,493626,N/A,6.1
+675,Loganville,Travertine Falls,Grandridge,493627,N/A,6.2
+676,Loganville,Travertine Falls,Grandridge,493628,N/A,6.3
+677,Loganville,Travertine Falls,Grandridge,493629,N/A,6.4
+678,Loganville,Travertine Falls,Grandridge,493630,N/A,6.5
+679,Loganville,Travertine Falls,Grandridge,493631,N/A,6.6
+680,Loganville,Travertine Falls,Grandridge,493632,N/A,6.7
+681,Loganville,Travertine Falls,Grandridge,493633,N/A,7.1
+682,Loganville,Travertine Falls,Grandridge,493634,N/A,7.2
+683,Loganville,Travertine Falls,Grandridge,493635,N/A,7.3
+684,Loganville,Travertine Falls,Grandridge,493636,N/A,7.4
+685,Loganville,Travertine Falls,Grandridge,493637,N/A,7.5
+686,Loganville,Travertine Falls,Grandridge,493638,N/A,7.6
+687,Loganville,Travertine Falls,Grandridge,493639,N/A,7.7
+688,Atscale,Travertine Falls,Grandridge,629627,N/A,
+689,Atscale,Travertine Falls,Grandridge,629628,N/A,
+690,Atscale,Travertine Falls,Grandridge,629629,N/A,
+691,Atscale,Travertine Falls,Grandridge,629630,N/A,
+692,Atscale,Travertine Falls,Grandridge,629631,N/A,
+693,Atscale,Travertine Falls,Grandridge,629632,N/A,
+694,Atscale,Travertine Falls,Grandridge,629633,N/A,
+695,Atscale,Travertine Falls,Grandridge,629618,N/A,
+696,Atscale,Travertine Falls,Grandridge,629634,N/A,
+697,Atscale,Travertine Falls,Grandridge,629678,N/A,8.3
+698,Atscale,Travertine Falls,Grandridge,629691,N/A,10.2
+699,Atscale,Travertine Falls,Grandridge,629692,N/A,
+700,Atscale,Travertine Falls,Grandridge,629617,N/A,
+701,Atscale,Travertine Falls,Grandridge,629621,N/A,
+702,Atscale,Travertine Falls,Grandridge,629622,N/A,
+703,Atscale,Travertine Falls,Grandridge,629623,N/A,
+704,Atscale,Travertine Falls,Grandridge,629624,N/A,
+705,Atscale,Travertine Falls,Grandridge,629625,N/A,
+706,Atscale,Travertine Falls,Grandridge,629626,N/A,
+707,Atscale,Travertine Falls,Grandridge,629662,N/A,
+708,Atscale,Travertine Falls,Grandridge,629663,N/A,
+709,Atscale,Travertine Falls,Grandridge,629706,N/A,
+710,Atscale,Travertine Falls,Grandridge,629659,N/A,
+711,Atscale,Travertine Falls,Grandridge,629619,N/A,
+712,Atscale,Travertine Falls,Grandridge,629693,N/A,
+713,Atscale,Travertine Falls,Grandridge,629694,N/A,
+714,Atscale,Travertine Falls,Grandridge,629658,N/A,
+715,Atscale,Travertine Falls,Grandridge,629684,N/A,
+716,Atscale,Travertine Falls,Grandridge,629685,N/A,
+717,Atscale,Travertine Falls,Grandridge,629707,N/A,
+718,Atscale,Travertine Falls,Grandridge,629708,N/A,
+719,Atscale,Travertine Falls,Grandridge,629614,N/A,
+720,Atscale,Travertine Falls,Grandridge,629615,N/A,
+721,Atscale,Travertine Falls,Grandridge,629616,N/A,
+722,Atscale,Travertine Falls,Grandridge,629705,N/A,
+723,Atscale,Travertine Falls,Grandridge,629669,N/A,
+724,Atscale,Travertine Falls,Grandridge,629660,N/A,
+725,Atscale,Travertine Falls,Grandridge,629661,N/A,
+726,Atscale,Travertine Falls,Grandridge,629670,N/A,
+727,Atscale,Travertine Falls,Grandridge,629648,N/A,
+728,Atscale,Travertine Falls,Grandridge,629599,N/A,
+729,Atscale,Travertine Falls,Grandridge,629600,N/A,
+730,Atscale,Travertine Falls,Grandridge,629601,N/A,
+731,Atscale,Travertine Falls,Grandridge,629602,N/A,
+732,Atscale,Travertine Falls,Grandridge,629679,N/A,
+733,Atscale,Travertine Falls,Grandridge,629656,N/A,
+734,Atscale,Travertine Falls,Grandridge,629657,N/A,
+735,Atscale,Travertine Falls,Grandridge,629594,N/A,
+736,Atscale,Travertine Falls,Grandridge,629595,N/A,
+737,Atscale,Travertine Falls,Grandridge,629606,N/A,
+738,Atscale,Travertine Falls,Grandridge,629607,N/A,
+739,Atscale,Travertine Falls,Grandridge,629609,N/A,
+740,Atscale,Travertine Falls,Grandridge,629608,N/A,
+741,Atscale,Travertine Falls,Grandridge,629613,N/A,
+742,Atscale,Travertine Falls,Grandridge,629664,N/A,
+743,Atscale,Travertine Falls,Grandridge,493640,N/A,
+744,Atscale,Travertine Falls,Grandridge,629680,N/A,
+745,Atscale,Travertine Falls,Grandridge,629640,N/A,
+746,Atscale,Travertine Falls,Grandridge,629639,N/A,
+747,Atscale,Travertine Falls,Grandridge,629638,N/A,
+748,Atscale,Travertine Falls,Grandridge,629637,N/A,
+749,Atscale,Travertine Falls,Grandridge,629636,N/A,
+750,Atscale,Travertine Falls,Grandridge,629635,N/A,
+751,Atscale,Travertine Falls,Grandridge,629695,N/A,
+752,Atscale,Travertine Falls,Grandridge,629593,N/A,
+753,Atscale,Travertine Falls,Grandridge,629681,N/A,
+754,Atscale,Travertine Falls,Grandridge,629682,N/A,
+755,Atscale,Travertine Falls,Grandridge,629696,N/A,
+756,Atscale,Travertine Falls,Grandridge,629654,N/A,
+757,Atscale,Travertine Falls,Grandridge,629641,N/A,
+758,Atscale,Travertine Falls,Grandridge,629642,N/A,
+759,Atscale,Travertine Falls,Grandridge,629643,N/A,
+760,Atscale,Travertine Falls,Grandridge,629644,N/A,
+761,Atscale,Travertine Falls,Grandridge,629645,N/A,
+762,Atscale,Travertine Falls,Grandridge,629646,N/A,
+763,Atscale,Travertine Falls,Grandridge,629647,N/A,
+764,Atscale,Travertine Falls,Grandridge,629653,N/A,
+765,Atscale,Travertine Falls,Grandridge,629652,N/A,
+766,Atscale,Travertine Falls,Grandridge,629651,N/A,
+767,Atscale,Travertine Falls,Grandridge,629650,N/A,
+768,Atscale,Travertine Falls,Grandridge,629649,N/A,
+769,Atscale,Travertine Falls,Grandridge,629677,N/A,
+770,Atscale,Travertine Falls,Grandridge,629675,N/A,
+771,Atscale,Travertine Falls,Grandridge,629674,N/A,
+772,Atscale,Travertine Falls,Grandridge,629673,N/A,
+773,Atscale,Travertine Falls,Grandridge,629672,N/A,
+774,Atscale,Travertine Falls,Grandridge,629671,N/A,
+775,Atscale,Travertine Falls,Grandridge,629667,N/A,
+776,Atscale,Travertine Falls,Grandridge,629668,N/A,
+777,Atscale,Travertine Falls,Grandridge,629700,N/A,
+778,Atscale,Travertine Falls,Grandridge,629701,N/A,
+779,Atscale,Travertine Falls,Grandridge,629702,N/A,
+780,Atscale,Travertine Falls,Grandridge,629709,N/A,
+781,Atscale,Travertine Falls,Grandridge,693731,N/A,
+782,Atscale,Travertine Falls,Grandridge,629698,N/A,
+783,Atscale,Travertine Falls,Grandridge,629699,N/A,
+784,Atscale,Travertine Falls,Grandridge,629703,N/A,
+785,Atscale,Travertine Falls,Grandridge,629686,N/A,
+786,Atscale,Travertine Falls,Grandridge,629687,N/A,
+787,Atscale,Travertine Falls,Grandridge,629655,N/A,
+788,Atscale,Travertine Falls,Grandridge,629665,N/A,
+789,Atscale,Travertine Falls,Grandridge,629666,N/A,
+790,Atscale,Travertine Falls,Grandridge,629596,N/A,
+791,Atscale,Travertine Falls,Grandridge,629597,N/A,
+792,Atscale,Travertine Falls,Grandridge,629598,N/A,

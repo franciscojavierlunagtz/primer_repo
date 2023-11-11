@@ -1,0 +1,37 @@
+.col-search-input {
+    margin-top: 10px;
+    display: block;
+    width: 90%;
+}
+
+
+.datatable-container
+{  
+    padding: 20px;
+    width:80%;
+    margin: 0 auto;
+}
+
+tfoot {
+    display: table-header-group;
+}
+table.dataTable tfoot th, table.dataTable tfoot td {
+    padding: 2px 2px 2px 2px;
+}
+
+
+table.dataTable tfoot th, table.dataTable tfoot td {
+    border-top: #e0e0e0 1px solid;
+    border-right: #e0e0e0 1px solid;
+    border-bottom: #e0e0e0 1px solid;
+}
+
+table.dataTable>thead .sorting:before, table.dataTable>thead .sorting:after, table.dataTable>thead .sorting_asc:before, table.dataTable>thead .sorting_asc:after, table.dataTable>thead .sorting_desc:before, table.dataTable>thead .sorting_desc:after, table.dataTable>thead .sorting_asc_disabled:before, table.dataTable>thead .sorting_asc_disabled:after, table.dataTable>thead .sorting_desc_disabled:before, table.dataTable>thead .sorting_desc_disabled:after {
+    top: -0.5em;
+    right: 0.1em;
+}
+
+table.dataTable>thead .sorting:before, table.dataTable>thead .sorting:after, table.dataTable>thead .sorting_asc:before, table.dataTable>thead .sorting_asc:after, table.dataTable>thead .sorting_desc:before, table.dataTable>thead .sorting_desc:after, table.dataTable>thead .sorting_asc_disabled:before, table.dataTable>thead .sorting_asc_disabled:after, table.dataTable>thead .sorting_desc_disabled:before, table.dataTable>thead .sorting_desc_disabled:before {
+    top: -0.5em;
+    right: -0.1em;
+}
